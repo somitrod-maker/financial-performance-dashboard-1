@@ -27,16 +27,23 @@ The dashboard highlights key business metrics such as **Sales, Profit, COGS, Pro
 ## 📷 Dashboard Preview
 
 ### Full Dashboard
-![Full Dashboard](Financial_Performance_Dashboard-1_Full.png)
+![Full Dashboard]
+https://github.com/somitrod-maker/financial-performance-dashboard-1/blob/main/Financial_Performance_Dashboard-1_Full.PNG?raw=true
 
 ### KPI Cards
-![KPI Cards](Financial_Performance_Dashboard-1_KPIs.png)
-
+![KPI Cards]
+https://github.com/somitrod-maker/financial-performance-dashboard-1/blob/main/Financial_Performance_Dashboard-1_KPIs.PNG?raw=true
 ### Charts View
-![Charts](Financial_Performance_Dashboard-1_Charts.png)
+https://github.com/somitrod-maker/financial-performance-dashboard-1/blob/main/Financial_Performance_Dashboard-1_Charts.PNG?raw=true
 
 ### Tooltip Example
-![Tooltip](Financial_Performance_Dashboard-1_Tooltip.png)
+https://github.com/somitrod-maker/financial-performance-dashboard-1/blob/main/Financial_Performance_Dashboard-1_Tooltip.PNG?raw=true
+
+---
+
+## Download Files
+- [Power BI File (.pbix)](https://github.com/somitrod-maker/financial-performance-dashboard-1/blob/main/Financial-Dashboard%20-1.pbix)
+- [PDF Report](https://github.com/somitrod-maker/financial-performance-dashboard-1/blob/main/Financial-Dashboard%20-1.pdf)
 
 ---
 
